@@ -1,0 +1,1 @@
+sing-box://import-remote-profile?url=http%3A%2F%2F188.245.167.128%3A2096%2Fsub%2Fme%3Fformat%3Djson#me
